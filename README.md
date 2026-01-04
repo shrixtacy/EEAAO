@@ -78,14 +78,17 @@ EEAAO/
 
 ## Contribution Philosophy
 
-EEAAO maintains quality through strict contribution standards:
+EEAAO maintains quality through strict contribution standards designed to prevent the problems that plague other learning resources:
 
-- **No link dumping** - Every resource must include context and justification
-- **No time-based promises** - Learning happens at individual pace
-- **No theory without application** - Every concept must connect to practical use
-- **No hype-driven content** - Honest trade-offs and realistic expectations only
+- **No link dumping** - Every resource must include context, justification, and when NOT to use it
+- **No time-based promises** - Learning happens at individual pace, not artificial deadlines
+- **No theory without application** - Every concept must connect to practical, buildable projects
+- **No hype-driven content** - Honest trade-offs, realistic expectations, and explicit warnings only
+- **No motivational fluff** - Practical guidance over inspirational content
 
-See `CONTRIBUTING.md` for detailed guidelines.
+We believe in outcome-driven learning where every piece of content serves a specific purpose in helping you build real applications. If it doesn't help you build something or make better technical decisions, it doesn't belong here.
+
+See `CONTRIBUTING.md` for detailed guidelines and quality standards.
 
 ## What Makes EEAAO Different
 
